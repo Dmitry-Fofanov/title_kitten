@@ -64,7 +64,7 @@ To use *title_kitten*, follow these steps:
 
 3. Enter the search string you want to find in the subtitle files.
 
-4. Optionally check the "Ignore Case".
+4. Optionally check the "Ignore Case."
 
 5. Click on the "RUN!" button.
 
